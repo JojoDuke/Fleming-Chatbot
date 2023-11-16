@@ -18,7 +18,7 @@ ___
 1. Prescribing Treatment
 
 # COVID-Voice-Assistant
-A python voice assistant that you can ask corona-virus related questions to
+A Python voice assistant that you can ask corona-virus related questions to
 ___
 #### TASKS
 * [x] Nutritional advice (ADI, RDA, Allergies etc)
