@@ -1,7 +1,7 @@
 # FLEMING MEDICAL CHATBOT
 ## SIML BOT (Synthetic Intelligence Markup Language)
 
-### This project is a medical chatbot called **Fleming** that is able to diagnose and prescribe possible treatments in the form of natural remedies and nutrition
+### This project is a medical chatbot called **Fleming** that can diagnose and prescribe possible treatments in the form of natural remedies and nutrition
 ___
 #### FEATURES OF FLEMING
 1. Nutritional advice (ADI, RDA, Allergies etc)
